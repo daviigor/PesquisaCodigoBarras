@@ -1,0 +1,9 @@
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\bin\Debug\netstandard2.0\DaviTeste.Model.deps.json
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\bin\Debug\netstandard2.0\DaviTeste.Model.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\bin\Debug\netstandard2.0\DaviTeste.Model.pdb
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.csprojAssemblyReference.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.AssemblyInfo.cs
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Model\obj\Debug\netstandard2.0\DaviTeste.Model.pdb

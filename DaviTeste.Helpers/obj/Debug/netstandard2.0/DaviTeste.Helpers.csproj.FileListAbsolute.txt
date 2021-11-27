@@ -1,0 +1,8 @@
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\obj\Debug\netstandard2.0\DaviTeste.Helpers.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\obj\Debug\netstandard2.0\DaviTeste.Helpers.AssemblyInfo.cs
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\obj\Debug\netstandard2.0\DaviTeste.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\bin\Debug\netstandard2.0\DaviTeste.Helpers.deps.json
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\bin\Debug\netstandard2.0\DaviTeste.Helpers.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\bin\Debug\netstandard2.0\DaviTeste.Helpers.pdb
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\obj\Debug\netstandard2.0\DaviTeste.Helpers.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Helpers\obj\Debug\netstandard2.0\DaviTeste.Helpers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\DaviTeste.Utils.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\DaviTeste.Utils.pdb
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\RestSharp.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\bin\Debug\RestSharp.xml
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\obj\Debug\DaviTeste.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\obj\Debug\DaviTeste.Utils.csproj.CopyComplete
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\obj\Debug\DaviTeste.Utils.dll
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\obj\Debug\DaviTeste.Utils.pdb
+C:\Users\Davi\Documents\Projetos\DaviTesteCSharp\DaviTeste.Utils\obj\Debug\DaviTeste.Utils.csprojAssemblyReference.cache

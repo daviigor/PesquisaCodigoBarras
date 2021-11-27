@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DaviTeste.Model\DaviTeste.Model.csproj" />
+    <ProjectReference Include="..\DaviTeste.Utils\DaviTeste.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
